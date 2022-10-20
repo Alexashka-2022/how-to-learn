@@ -167,6 +167,10 @@
   margin: 0 0 0 0;
 }
 
+.table__text:nth-last-child(2) {
+  padding-top: 20px;
+}
+
 .feynman {
   padding-top: 100px;
   background-color: #f2f2f2;
