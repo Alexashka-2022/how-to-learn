@@ -1,0 +1,12 @@
+.cards__item {
+  list-style-type: none;
+  padding-top: 60px;
+  margin-right: 100px;
+  width: 240px;
+  text-align: center;
+}
+
+.cards__item:nth-of-type(2n+3) {
+  margin-right: 0;
+}
+
