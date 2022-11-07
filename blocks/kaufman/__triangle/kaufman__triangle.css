@@ -9,10 +9,4 @@
   top: 0;
   right: -210px;
   z-index: 1;
-  -webkit-animation-name: rotation;
-  animation-name: rotation;
-  -webkit-animation-duration: 20s;
-          animation-duration: 20s;
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
 }

@@ -1,8 +1,14 @@
 .resources__link {
   text-decoration: none;
+  opacity: 1;
+  -webkit-transition: opacity 2s linear;
+  -o-transition: opacity 2s linear;
+  transition: opacity 2s linear;
 }
 
 .resources__link:hover{
-  opacity: 0.7;
-  transition: linear;
+  opacity: 0.5;
+  -webkit-transition: opacity 2s linear;
+  -o-transition: opacity 2s linear;
+  transition: opacity 2s linear;
 }
